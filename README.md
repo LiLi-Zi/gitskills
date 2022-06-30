@@ -2,3 +2,4 @@
 
 创建dev分支并合并到master分支上，然后可以删除dev分支
 相当于创建dev指针，然后把head指向dev，合并时直接把mster指向dev，所有合并速度很快
+github上的分支如何保持同步？
